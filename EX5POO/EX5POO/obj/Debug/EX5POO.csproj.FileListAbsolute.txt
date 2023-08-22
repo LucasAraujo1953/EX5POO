@@ -1,0 +1,8 @@
+C:\Users\Publico\source\repos\EX5POO\EX5POO\bin\Debug\EX5POO.exe.config
+C:\Users\Publico\source\repos\EX5POO\EX5POO\bin\Debug\EX5POO.exe
+C:\Users\Publico\source\repos\EX5POO\EX5POO\bin\Debug\EX5POO.pdb
+C:\Users\Publico\source\repos\EX5POO\EX5POO\obj\Debug\EX5POO.csproj.AssemblyReference.cache
+C:\Users\Publico\source\repos\EX5POO\EX5POO\obj\Debug\EX5POO.csproj.SuggestedBindingRedirects.cache
+C:\Users\Publico\source\repos\EX5POO\EX5POO\obj\Debug\EX5POO.csproj.CoreCompileInputs.cache
+C:\Users\Publico\source\repos\EX5POO\EX5POO\obj\Debug\EX5POO.exe
+C:\Users\Publico\source\repos\EX5POO\EX5POO\obj\Debug\EX5POO.pdb
